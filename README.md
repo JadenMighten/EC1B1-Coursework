@@ -141,11 +141,11 @@ Immediately prior to Italy leaving the Bretton Woods system, there were many spe
 
 |Metric|Standard Deviation of Metric Before Leaving Bretton Woods Agreement|Standard Deviation of Metric After Leaving Bretton Woods Agreement|Ratio or Standard Deviation After Vs Before Leaving Bretton Woods Agreement|
 |---|---|---|---|
-|Italy Inflation Rate|0\.58|16\.6|28\.47|
-|Difference Between the Inflation in Italy Versus the United States|0\.54|4\.11|7\.61|
-|Monthly Growth of Real Exchange Rates Versus the US Dollar|0\.32|2\.36|7\.36|
-|Monthly Growth of Nominal Exchange Rates Versus the US Dollar|0\.0|0\.02|36\.88|
-|12 Monthly Industrial Production|0\.14|0\.36|2\.56|
+|Difference between inflation in Italy versus the United States|0\.006|0\.007|1\.208|
+|Italy Monthly Inflation Rate|0\.003|0\.006|1\.962|
+|Monthly Growth of Nominal Exchange Rate Versus the US Dollar|0\.001|0\.024|36\.652|
+|Monthly Growth of Real Exchange Rates Versus the US Dollar|0\.317|2\.353|7\.422|
+|Monthly Growth in Industrial Production|0\.142|0\.362|2\.541|
 
 ## 5.3.4: What are the effects of Exchange Rates
 ## Taken together, what do your results imply about the effect of real exchange rate fluctuations? Is there a reason why your results are particularly compelling?
