@@ -53,22 +53,30 @@ However, in contrast to GDP, industrial production is often measured on a monthl
 
 ##  Plot a time series graph of the monthly growth in nominal exchange rates of your country, versus the US dollar, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 1 CODE
+<p align="center">
+    <img src="Images/Graph1.png">
+</p>
 
 ## Plot a time series graph of the monthly growth in real exchange rates of your country, versus the US dollar, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 2 CODE
+<p align="center">
+    <img src="Images/Graph2.png">
+</p>
 
 ## Why is it useful to plot both real and nominal exchange rate growth.
 Real exchange rate growth reflects changes in the relative purchasing power of currencies. It adjusts nominal exchange rates for changes in inflation. Nominal exchange rate growth, however, reflects the actual changes in the exchange rate between two currencies. As shown in the equation below, real exchange rate is the inflation adjusted version of nominal exchange rate i.e., adjusted by multiplying the price level ratio of the two countries (Italy/the United States). 
 This equation shows the relationship between the real and nominal exchange rates.
 
-Equation 1 Code
+<p align="center">
+    <img src="Images/Equation1.png">
+</p>
 
 >ε: nominal exchange rate, E: real exchange rate, P: the price of goods in Italy, P*: the price of goods in the United States 
 This equation shows the relationship between the rate of growth of the real exchange rate, the nominal exchange rate and inflation.
 
-Equation 2 Code
+<p align="center">
+    <img src="Images/Equation2.png">
+</p>
 
 >ΔE/E: the rate of growth of the real exchange rate, x: the rate of growth of the nominal exchange rate, π*: inflation in the United States, π: inflation in Italy
 
@@ -79,30 +87,43 @@ Therefore, plotting both ΔE/E and x rates can be beneficial for identifying whe
 Under the Bretton Woods system, the US dollar was seen as overvalued. This can be evidenced by the ‘Monthly Growth in Nominal Exchange Rate of Italian Lira VS United States Dollar (1960-1990)’ and the ‘Monthly Growth in Real Exchange Rate of Italian Lira VS United States Dollar (1960-1990)’ graphs, whereby immediately after August 1971 (Italy leaving the Bretton Woods system), there is a sharp fall in both the nominal and real exchange rates (Italian Lira to US Dollar). This explains that the value of the US Dollar in terms of Italian Lira fell. This could therefore reflect how actually, the value of the US Dollar may not be as high as when the Italian Lira was fixed. We may then conclude that the US Dollar was overvalued in the Bretton Woods system. 
 
 ## Plot a time series graph of the monthly indexed value of international reserves of Italy and the US from January 1960 until the exit of the US from Bretton Woods.
-GRAPH 3 CODE
+
+<p align="center">
+    <img src="Images/Graph3.png">
+</p>
 
 ## Using your graph of international reserves over time, explain one reason for the US’s departure from the Bretton Woods system.
 One of the main reasons the US chose to abandon the gold standard was the growing US balance of payment deficit. For the US, the 1960s was a period with more US dollar outflows than inflows. As shown in the graph above, compared to the early 1960s, the level of international reserves was relatively low in the mid-1960s. This was caused by several factors, including trade deficit, foreign investment, and increased military spending due to the Vietnam War, which all contributed to the decline in international reserves in the US. In particular, the increase in the trade deficit was a big concern to the US. The overvaluation of the US dollar and the high inflation in the US meant that imports were cheaper and exports were more expensive. As imports became more attractive and exports became less attractive, the US ended up in a trade deficit. 
 
-Graph 4 Code
+<p align="center">
+    <img src="Images/Graph4.png">
+</p>
 
 Moreover, these large outflows of US dollars meant that the international reserves of foreign countries were increasing. For instance, the diagram below shows that during the 1960s, Italy experienced increased international reserves (US dollar). However, the gold reserves the US had to support the US dollar were limited. This uncertainty led to speculative attacks as foreign countries wanted to convert their US dollar reserves to gold. 
 
-Graph 5 Code
+<p align="center">
+    <img src="Images/Graph5.png">
+</p>
 
 ## 5.3.2: Inflation and Industrial Production Graphs 
 
 ## Plot a time series graph of monthly inflation, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 6
+<p align="center">
+    <img src="Images/Graph6.png">
+</p>
 
 ## Plot a time series graph of the monthly growth in industrial production, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 7
+<p align="center">
+    <img src="Images/Graph7.png">
+</p>
 
 ## Plot a time series graph of the growth in industrial production versus 12 months ago, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 8
+<p align="center">
+    <img src="Images/Graph8.png">
+</p>
 
 ## Why are your results for the monthly versus 12 monthly growth in industrial production so different? Which measure is more useful?
 
