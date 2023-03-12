@@ -241,8 +241,8 @@ merged_df['Monthly Growth in Industrial Production'] = industrial_production_mon
 merged_df = merged_df.drop(columns = ['Italy - 1', 'Italy - 2', 'Italy - 3', 'Italy - 4','United States - 1', 'United States - 2'])
 
 #Splitting data frame into two parts leaving ten months either side of august 1970
-split1 = merged_df.iloc[:119,:]
-split2 = merged_df.iloc[138:,:]
+split1 = merged_df.iloc[:131,:]
+split2 = merged_df.iloc[150:,:]
 
 #Creating dataframe of all standard deviations before leaving Bretton Woods agreement
 STDB4 = pd.DataFrame(split1.std())
