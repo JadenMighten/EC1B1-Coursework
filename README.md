@@ -1,5 +1,9 @@
 # EC1B1-Coursework
 
+> ## Key information
+> - Datasets required to run code are stored in the folder "Datasets" on this repository
+> - Code components and full code are stored in the folder "Code" on this repository
+
 # 5.1 Comprehension and Warm Up
 
 ## What was the date that your country left the Bretton Woods system? – If two dates seem plausible, pick one and explain why you’re chosen that particular date.
@@ -141,11 +145,11 @@ Immediately prior to Italy leaving the Bretton Woods system, there were many spe
 
 |Metric|Standard Deviation of Metric Before Leaving Bretton Woods Agreement|Standard Deviation of Metric After Leaving Bretton Woods Agreement|Ratio or Standard Deviation After Vs Before Leaving Bretton Woods Agreement|
 |---|---|---|---|
-|Difference between inflation in Italy versus the United States|0\.006|0\.007|1\.208|
-|Italy Monthly Inflation Rate|0\.003|0\.006|1\.962|
-|Monthly Growth of Nominal Exchange Rate Versus the US Dollar|0\.001|0\.024|36\.652|
-|Monthly Growth of Real Exchange Rates Versus the US Dollar|0\.317|2\.353|7\.422|
-|Monthly Growth in Industrial Production|0\.142|0\.362|2\.541|
+|Difference between inflation in Italy versus the United States|0\.006|0\.007|1\.189|
+|Italy Monthly Inflation Rate|0\.003|0\.006|2\.01|
+|Monthly Growth of Nominal Exchange Rate Versus the US Dollar|0\.001|0\.025|39\.27|
+|Monthly Growth of Real Exchange Rates Versus the US Dollar|0\.309|2\.406|7\.785|
+|Monthly Growth in Industrial Production|0\.149|0\.367|2\.464|
 
 ## 5.3.4: What are the effects of Exchange Rates
 ## Taken together, what do your results imply about the effect of real exchange rate fluctuations? Is there a reason why your results are particularly compelling?
