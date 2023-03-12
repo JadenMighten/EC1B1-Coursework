@@ -71,6 +71,7 @@ This equation shows the relationship between the rate of growth of the real exch
 Equation 2 Code
 
 >ΔE/E: the rate of growth of the real exchange rate, x: the rate of growth of the nominal exchange rate, π*: inflation in the United States, π: inflation in Italy
+
 From this equation, it can be seen that the rates of growth of the real exchange rate and the nominal exchange rate are closely related.
 Therefore, plotting both ΔE/E and x rates can be beneficial for identifying whether the exchange rate movements are being driven by changes in inflation or changes in other factors such as, in this case, Italy’s leaving the Bretton Woods system in August 1971. 
 
@@ -83,21 +84,25 @@ GRAPH 3 CODE
 ## Using your graph of international reserves over time, explain one reason for the US’s departure from the Bretton Woods system.
 One of the main reasons the US chose to abandon the gold standard was the growing US balance of payment deficit. For the US, the 1960s was a period with more US dollar outflows than inflows. As shown in the graph above, compared to the early 1960s, the level of international reserves was relatively low in the mid-1960s. This was caused by several factors, including trade deficit, foreign investment, and increased military spending due to the Vietnam War, which all contributed to the decline in international reserves in the US. In particular, the increase in the trade deficit was a big concern to the US. The overvaluation of the US dollar and the high inflation in the US meant that imports were cheaper and exports were more expensive. As imports became more attractive and exports became less attractive, the US ended up in a trade deficit. 
 
+Graph 4 Code
+
 Moreover, these large outflows of US dollars meant that the international reserves of foreign countries were increasing. For instance, the diagram below shows that during the 1960s, Italy experienced increased international reserves (US dollar). However, the gold reserves the US had to support the US dollar were limited. This uncertainty led to speculative attacks as foreign countries wanted to convert their US dollar reserves to gold. 
+
+Graph 5 Code
 
 ## 5.3.2: Inflation and Industrial Production Graphs 
 
 ## Plot a time series graph of monthly inflation, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 4
+GRAPH 6
 
 ## Plot a time series graph of the monthly growth in industrial production, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 5
+GRAPH 7
 
 ## Plot a time series graph of the growth in industrial production versus 12 months ago, for every month from the start to the end of the sample. Clearly indicate the time at which that country left the Bretton Woods system.
 
-GRAPH 6
+GRAPH 8
 
 ## Why are your results for the monthly versus 12 monthly growth in industrial production so different? Which measure is more useful?
 
